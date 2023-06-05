@@ -1,5 +1,5 @@
 # Payment-Gateway-Integration-task-3
-The following objectives were fulfilled:
+The following objectives were fulfilled using HTML, CSS:
 
 1. To create a simple website where payment gateway is integrated.
 
